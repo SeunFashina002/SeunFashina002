@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/heisblaq_" target="blank"><img src="https://img.shields.io/twitter/follow/heisblaq_?logo=twitter&style=for-the-badge" alt="heisblaq_" /></a> </p>
 
-- 🔭 I’m currently working with my friend to work on [LINKZEN](https://linkzen.vercel.app)
+- 🔭 I’m currently working with my friend on [LINKZEN](https://linkzen.vercel.app)
 
 - 🌱 I’m currently learning **Redis, ElasticSearch,AWS**
 
