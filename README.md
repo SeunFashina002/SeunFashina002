@@ -11,16 +11,16 @@
 
 - 🌱 I’m currently learning **Redis, ElasticSearch,AWS**
 
-- 👨‍💻 All of my projects are available at [oluwaseun.vercel.app](https://oluwaseun.vercel.app/)
+- 👨‍💻 will be writing some articles on [my hashnode blog](https://seunfashina.hashnode.dev/)
 
 - 💬 Ask me about **Python, Django, Djangorestframework, JavaScript**
 
 - 📫 How to reach me **fashinaoluwaseun36@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16bBE7wSl1Go4shnoe3_DZ9yExknU8hOs/view?usp=share_link](https://drive.google.com/file/d/16bBE7wSl1Go4shnoe3_DZ9yExknU8hOs/view?usp=share_link)
-
 - ⚡ Fun fact **I think I am funny, lively and inspiring**
 
+- ❤️ **I love Python** 👨‍💻
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heisblaq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heisblaq_" height="30" width="40" /></a>
