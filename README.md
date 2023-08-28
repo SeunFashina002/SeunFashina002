@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working with my friend on [LINKZEN](https://linkzen.vercel.app)
 
-- 🌱 Lifelong learner**
+- 🌱 Lifelong learner
 
 - 👨‍💻 will be writing some articles on [my hashnode blog](https://seunfashina.hashnode.dev/)
 
