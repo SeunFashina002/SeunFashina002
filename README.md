@@ -9,18 +9,18 @@
 
 - 🔭 I’m currently working with my friend on [LINKZEN](https://linkzen.vercel.app)
 
-- 🌱 I’m currently learning **Redis, ElasticSearch,AWS**
+- 🌱 Lifelong learner**
 
 - 👨‍💻 will be writing some articles on [my hashnode blog](https://seunfashina.hashnode.dev/)
 
-- 💬 Ask me about **Python, Django, Djangorestframework, JavaScript**
+- 💬 Ask me about **Python, Django, Djangorestframework, JavaScript, Backend Development, APIs**
 
 - 📫 How to reach me **fashinaoluwaseun36@gmail.com**
 
 - ⚡ Fun fact **I think I am funny, lively and inspiring**
 
 - ❤️ **I love Python** 👨‍💻
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heisblaq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heisblaq_" height="30" width="40" /></a>
