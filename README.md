@@ -21,7 +21,7 @@
 
 - ❤️ **I love Python** 👨‍💻
 
-- 🧐 **Don't trust my streak 😂, it has alot of idle commits 🤭
+- 🧐 **Don't trust my streak 😂, it has alot of idle commits** 🤭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
